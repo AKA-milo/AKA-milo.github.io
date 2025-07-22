@@ -1,0 +1,75 @@
+
+
+
+
+body {
+  font-family: "Raleway", sans-serif;
+}
+
+/* Hero Section */
+
+#Hero-Section {
+  background-image: url("../img/bg-desktopv3.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left;
+ 
+}
+
+.container h1 {
+  color: #29B1B2;
+  text-shadow: #F4F4F9 1px 1px 2px;
+
+}
+
+.descripcion {
+  color: #F4F4F9;
+}
+
+
+
+/* Mis trabajos */
+#Mis-trabajos {
+  background-color:#000000;
+}
+
+#Mis-trabajos h2 {
+  color: #E6AA68;
+}
+
+#Mis-trabajos .card {
+  background-color: #F4F4F9;
+}
+
+#Mis-trabajos .image-top {
+  height: 250px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+
+}
+
+/* Contacto */
+
+
+
+#Contacto form label {
+  font-weight: 700;
+  color: #373a3c;
+}
+
+@media (max-width: 768px) {
+  #Contacto form label {
+    font-weight: 400;
+  }
+
+  .navbar-brand{
+    width: 100px;
+  }
+
+}
+
+footer {
+  background-color: #29B1B2;
+  color: #ffffff;
+}
