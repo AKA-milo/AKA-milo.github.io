@@ -26,7 +26,13 @@ body {
   color: #F4F4F9;
 }
 
-
+.card-title {
+  font-weight: 700;
+  font-size: 1.2rem;
+}
+.card-subtitle {
+  font-size: 0.9rem;
+}
 
 /* Mis trabajos */
 #Mis-trabajos {
