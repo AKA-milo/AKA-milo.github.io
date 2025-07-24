@@ -1,5 +1,7 @@
-<<<<<<< HEAD
-# AKA-milo.github.io
-=======
-# fdsw-github
->>>>>>> 1a34e5d (subiendo la v1 de mi sitio)
+<h1>Readme Evaluador</h1> 
+
+Mi page : https://aka-milo.github.io/
+
+Fork 1: https://github.com/AKA-milo/Prueba1M1
+
+Fork 2: https://github.com/AKA-milo/BudcatCode.github.io
